@@ -1,3 +1,5 @@
+--DESCRIPCION DEL PROYECTO--
+
 Este prototipo / sistema es desarrollado para la pequeña empresa de La Eskina Del Antojo, se trata de un sistema de 
 punto de venta donde se pueden hacer altas, bajas y cambios de distintas tablas de una base de datos, se maneja
 facilmente e intuitivamente desde la apariencia sencilla y bonita de su menu.
