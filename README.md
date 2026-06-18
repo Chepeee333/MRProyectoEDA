@@ -3,6 +3,7 @@ punto de venta donde se pueden hacer altas, bajas y cambios de distintas tablas 
 facilmente e intuitivamente desde la apariencia sencilla y bonita de su menu.
 
 -----GUIA DE USO----
+
 --PANTALLA DE PUNTO DE VENTA--
 
 Aqui se pueden agregar productos a un pedido solo dandole click arriba, ademas estan
